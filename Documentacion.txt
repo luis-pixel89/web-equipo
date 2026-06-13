@@ -4,3 +4,12 @@ SUBIR UN PROYECTO AL REPOSITORIO	git init
 					git branch -M main
 					git remote add origin https://github.com/luis-pixel89/web-equipo.git
 					git push -u origin main
+
+CAMBIO y CREO RAMA		git checkout -b dev
+VER RAMA			git branch
+PUSH NUEVA RAMA			git push origin dev
+
+MENSAJES DE COMMIT		feat: nueva funcionalidad
+				fix: corrección de error
+				style: cambios de diseño
+				docs: actualización de documentación
